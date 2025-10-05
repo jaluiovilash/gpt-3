@@ -1,8 +1,25 @@
-# React + Vite
+# Modern UI/UX GPT-3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### [Live Site](https://gpt3-jsm.com/)
 
-Currently, two official plugins are available:
+![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### [🚀 Develop your first Frontend, React Landing Page using this Youtube video](https://youtu.be/LMagNcngvcU?si=3JjkQeGfALr0-l9H)
+
+## Introduction
+
+This is a code repository for the corresponding video tutorial.
+
+You might be wondering, what are the prerequisites for building such an amazing website? Don't worry, this course is completely beginner-friendly! We're going to start easy and them move to more complex topics. Every step of the way will be explained. Alongside building the website, you'll learn:
+
+- React Functional components and their reusability
+- React file and folder structure
+- Fundamental CSS properties to master flex & grid
+- Fundamentals of the CSS BEM Model
+- From soft and pleasant animations to complex gradients
+- Perfectly placed media queries for satisfactory responsiveness covering almost devices
+- And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
+
+## Stay up to date with new projects
+
+New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
